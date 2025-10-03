@@ -3,6 +3,7 @@
 ## 1. Project Title
 
 Analysis of the Most Streamed Songs on Spotify — Interactive Power BI Report with Figma Design.
+[View the report](https://app.powerbi.com/view?r=eyJrIjoiYTczMWQyMGEtNmUyNy00ZTQzLTg2NjEtZDBjMzQ4MDMyMDc2IiwidCI6ImE3NjhlZmQ4LTAxYzEtNDVmMC1hMzc2LWY1YjJiNjBlMzM2MiJ9)
 
 ---
 
